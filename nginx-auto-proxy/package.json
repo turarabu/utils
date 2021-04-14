@@ -1,0 +1,16 @@
+{
+  "name": "autoproxy",
+  "version": "0.1.0",
+  "description": "Create and remove nginx proxy configs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turarabu/utils/nginx-auto-proxy"
+  },
+  "keywords": [
+    "nginx",
+    "firewall"
+  ],
+  "author": "Turar Abu",
+  "license": "ISC"
+}
